@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "portfolio-website-main",
+			"path": "."
+		},
+		{
+			"name": "Kalkulator",
+			"path": "../Kalkulator"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,24 @@
+body {
+    background-color: darkgreen; /* Warna latar belakang */
+}
+
+.card {
+    border-radius: 10px; /* Sudut bulat pada card */
+}
+
+.card-title {
+    margin-bottom: 20px; /* Jarak bawah pada judul */
+}
+
+input {
+    border-radius: 5px; /* Sudut bulat pada input */
+}
+
+.btn {
+    border-radius: 5px; /* Sudut bulat pada tombol */
+    background-color: green;
+}
+
+.btn:hover {
+    background: darkgreen;
+}
